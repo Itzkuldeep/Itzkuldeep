@@ -10,11 +10,11 @@
 
 ###
 
-<h5 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Data Science and Machine Learning<br>🎯 Goals: Respect in Community <br>🎲 Fun fact: Always Freaked out about the Colons 😂</h5>
+<h5 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Data Science and Machine Learning<br>🎶 Looking for good music for Coding<br>😶‍🌫️ Guidance is Important<br>🎯 Goals: Respect in Community <br>🎲 Fun fact: Always Freaked out about the Colons 😂</h5>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with Python 🐍</h3>
 
 ###
 
