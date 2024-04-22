@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kuldeep and I'm a Enthusiastic Developer , from Jaipur(India);</p>
+<p align="left">My name is Kuldeep Singh Tak and I'm a Enthusiastic Developer , from Jaipur(India);</p>
 
 ###
 
