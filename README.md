@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Data Science and Machine Learning<br>🎶 Looking for good music for Coding<br>😶‍🌫️ Guidance is Important<br>🎯 How to reach me _kuldeeeppp._ (instagram)<br>🎲 Fun fact: Always Freaked out about the Colons 😂</h5>
+<h5 align="left">✨ Committing since 2021<br>📚 I'm currently learning Data Science and Machine Learning<br>🎶 Looking for good music for Coding<br>😶‍🌫️ Guidance is Important<br>🎯 How to reach me _kuldeeeppp._ (instagram)<br>🎲 Fun fact: Always Freaked out about the Colons 😂</h5>
 
 ###
 
