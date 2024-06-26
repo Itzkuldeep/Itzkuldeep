@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Kuldeep and I'm a AI & ML enthusiasts, from India</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Machine Learning<br>🎯 Goals: Develop AI Systems<br>🎲 Fun fact: JS sucks</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with 🐍 iykyk </h2>
 
 ###
 
