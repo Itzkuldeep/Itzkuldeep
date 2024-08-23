@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django and GenAI**
 
-- 👯 I’m looking to collaborate on **AI projects**
+- 👯 I’m looking to collaborate on **ML/AI**
 
 - 💬 Ask me about **Flask, Python, Data science**
 
