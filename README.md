@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kuldeep and I'm a Learner, from India</p>
+<p align="left">My name is Kuldeep and I'm a Learner</p>
 
 ###
 
