@@ -7,7 +7,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on WebApp with FLask<br>👯 I’m looking to collaborate on Data Science/AI/Flask<br>🤝 I’m looking for help with ML/GenAI projects<br>🌱 I’m currently learning ML<br>💬 Ask me about AI, Flask, Data Science, ML<br>⚡ Fun fact No Fun only Code
+🔭 I’m currently working on WebApp with FLask<br>👯 I’m looking to collaborate on Data Science/AI/Flask<br>🤝 I’m looking for help with ML/GenAI projects<br>🌱 I’m currently learning Django<br>💬 Ask me about AI, Flask, Data Science, ML<br>⚡ Fun fact No Fun only Code
 
 
 # 💻 Tech Stack:
