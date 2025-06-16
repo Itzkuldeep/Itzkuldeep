@@ -1,5 +1,13 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+
+###
+
+<p align="center">
+  <img src="ChatGPT Image Jun 16, 2025, 11_47_00 AM.png" alt="Kuldeep Banner" width="100%" />
+</p>
+
+
 ###
 
 <p align="left">I'm Kuldeep, an AI/ML Engineer building intelligent agents and real-world automation systems.</p>
