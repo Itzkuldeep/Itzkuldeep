@@ -3,9 +3,7 @@
 
 ###
 
-<p align="center">
-  <img src="ChatGPT Image Jun 16, 2025, 11_47_00 AM.png" alt="Kuldeep Banner" width="100%" />
-</p>
+
 
 
 ###
